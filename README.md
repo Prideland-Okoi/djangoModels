@@ -20,25 +20,27 @@ Assignment
 
 ---
 
-Title : A string of maxlength 200, use Django’s models.CharField
+    Title : A string of maxlength 200, use Django’s models.CharField
 
-Text : Any amount of text, use Django’s TextField
+    Text : Any amount of text, use Django’s TextField
 
-Author : A Foreign Key to the current user model. Make use of Django’s get_user_model function
+    Author : A Foreign Key to the current user model. Make use of Django’s get_user_model function
 
-Created_date : A date-time column, use Django’s models.DateTimeField.
+    Created_date : A date-time column, use Django’s models.DateTimeField.
 
-Published_date : A date-time column, use Django’s models.DateTimeField.
+    Published_date : A date-time column, use Django’s models.DateTimeField.
 
-Create migrations for your new model using the makemigrations Django command.
+    Create migrations for your new model using the makemigrations Django command.
 
-Run all migrations using the migrate Django command.
+    Run all migrations using the migrate Django command.
 
-Stage and Commit your Django project and push your changes to your GitHub repository.
+---
 
-Ensure your final code/submission is on the default branch of your GitHub repository.
+8. Stage and Commit your Django project and push your changes to your GitHub repository.
 
-8. Submit the link to the Github repository e.g https://github.com/github_username/repo_name
+9. Ensure your final code/submission is on the default branch of your GitHub repository.
+
+10. Submit the link to the Github repository e.g https://github.com/github_username/repo_name
 
 ## Resources:
 
